@@ -3,7 +3,7 @@
 }
 .parallax1 {
     /* The image used */
-    background-image: url("/assets/background.jpg");
+    background-image: url("https://raw.githubusercontent.com/Galuz/RubyonRails_StaticPages/master/app/assets/images/background.jpg");
 
     /* Set a specific height */
     height: 600px; 
@@ -17,7 +17,7 @@
 
 .parallax2 {
     /* The image used */
-    background-image: url("/assets/destinyback.jpg");
+    background-image: url("https://raw.githubusercontent.com/Galuz/RubyonRails_StaticPages/master/app/assets/images/destinyback.jpg");
 
     /* Set a specific height */
     height: 600px;  
@@ -30,7 +30,7 @@
 }
 .parallax3 {
     /* The image used */
-    background-image: url("/assets/musicback.jpg");
+    background-image: url("https://raw.githubusercontent.com/Galuz/RubyonRails_StaticPages/master/app/assets/images/musicback.jpg");
 
     /* Set a specific height */
     height: 600px;  
@@ -43,7 +43,7 @@
 }
 .parallax4 {
     /* The image used */
-    background-image: url("/assets/sportback.jpg");
+    background-image: url("https://raw.githubusercontent.com/Galuz/RubyonRails_StaticPages/master/app/assets/images/sportback.jpg");
 
     /* Set a specific height */
     height: 600px; 
